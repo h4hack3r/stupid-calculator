@@ -1,6 +1,6 @@
 {
   "name": "stupid-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A calculator meant for noob coders. Stupidly built, but may work most of the time.",
   "main": "index.js",
   "scripts": {
